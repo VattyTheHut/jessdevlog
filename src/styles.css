@@ -1,1 +1,7 @@
-/* You can add global styles to this file, and also import other style files */
+/* was suppose to be funny..  but not working :( */
+
+.Body{
+    background-image: url("https://scontent.fphl2-4.fna.fbcdn.net/v/t1.0-0/p370x247/18198437_10154594382421194_8679754682724439100_n.jpg?_nc_cat=0&oh=4137a16261f03bd9fdda2b3ba2c980fa&oe=5B5FD296");
+    background: repeat;
+}
+
